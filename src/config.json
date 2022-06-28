@@ -1,0 +1,52 @@
+{
+  "blocks": [
+    {
+      "title": "Products + Notes",
+      "width": "50%",
+      "height": "100%",
+      "grid": true,
+      "header1": true,
+      "header2": false,
+      "options": true,
+      "sale_retail_price": false,
+      "products": true,
+      "notes": true,
+      "prices": false,
+      "assets": false,
+      "grid-column": "1",
+      "grid-row": "1 / 3"
+    },
+    {
+      "title": "Mini Products",
+      "width": "50%",
+      "height": "50%",
+      "grid": true,
+      "header1": true,
+      "header2": false,
+      "options": false,
+      "sale_retail_price": false,
+      "products": true,
+      "notes": false,
+      "prices": false,
+      "assets": false,
+      "grid-column": "2",
+      "grid-row": "1"
+    },
+    {
+      "title": "Mini Products",
+      "width": "50%",
+      "height": "50%",
+      "grid": false,
+      "header1": true,
+      "header2": false,
+      "options": true,
+      "sale_retail_price": false,
+      "products": false,
+      "notes": false,
+      "prices": false,
+      "assets": false,
+      "grid-column": "2",
+      "grid-row": "2"
+    }
+  ]
+}
